@@ -1,7 +1,3 @@
 module.exports = {
-  {
-    "scripts": {
-      "deploy": "gatsby build && gh-pages -d public -b master"
-    }
-  }
+  path Prefix: "gatsby-starter-hello-world",
 }
